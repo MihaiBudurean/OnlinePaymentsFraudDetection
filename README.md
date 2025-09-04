@@ -36,7 +36,7 @@ See `requirements.txt` in this repository. Use any environment tool you prefer (
 Clone the repository and open the notebook:
 
 ```bash
-git clone https://github.com/your-username/OnlinePaymentsFraudDetection.git
+git clone https://github.com/MihaiBudurean/OnlinePaymentsFraudDetection.git
 cd OnlinePaymentsFraudDetection
 pip install -r requirements.txt
 ```
