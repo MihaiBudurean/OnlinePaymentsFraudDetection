@@ -27,33 +27,8 @@ The notebook covers:
 
 ## 🛠️ Requirements
 
-See `requirements.txt` in this repository. Use any environment tool you prefer (e.g., `venv`, Conda).
-
----
-
-## 🚀 Usage
-
-Clone the repository and open the notebook:
-
 ```bash
-git clone https://github.com/MihaiBudurean/OnlinePaymentsFraudDetection.git
-cd OnlinePaymentsFraudDetection
 pip install -r requirements.txt
 ```
 
-Then open **`OnlinePaymentsFraudDetection.ipynb`** in Jupyter (or VS Code) and run the cells.
-
----
-
-## 📈 Results
-
-The notebook reports cross‑validated performance for KNN, Logistic Regression, and Decision Trees using the metrics above. Include (optional) a small results table or plots saved from the notebook for quick preview in the repo.
-
----
-
-## 📂 Files
-
-* `OnlinePaymentsFraudDetection.ipynb` – Main notebook with analysis and results
-* `requirements.txt` – Python dependencies
-* `README.md` – This file
 
